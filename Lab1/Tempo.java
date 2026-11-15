@@ -1,4 +1,4 @@
-public class temp {
+public class Tempo {
     public static void main(String[] args){
         private int h;
         private int m;
